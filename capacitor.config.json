@@ -1,0 +1,7 @@
+{
+  "appId": "io.github.bpmw0711.pokerole",
+  "appName": "Pokerole 3.0 規則",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
